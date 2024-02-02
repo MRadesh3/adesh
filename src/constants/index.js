@@ -26,6 +26,12 @@ import {
   udemy,
   techedu,
   threejs,
+  shopinggo,
+  thoughtflix,
+  adminboard,
+  webcertificate,
+  collincertificate,
+  excelcertificate,
 } from "../assets";
 
 export const navLinks = [
@@ -158,7 +164,7 @@ const testimonials = [
     name: "Web Development Bootcamp",
     date: "31 December 2022",
     company: "Udemy",
-    image: "src/assets/certificates/certificate.png",
+    image: webcertificate,
   },
   {
     certificate_link:
@@ -166,7 +172,7 @@ const testimonials = [
     name: "Web Developmet Intern",
     date: "February 2023 - July 2023",
     company: "Collin It Solution",
-    image: "src/assets/certificates/certificate-1.png",
+    image: collincertificate,
   },
   {
     certificate_link:
@@ -174,7 +180,7 @@ const testimonials = [
     name: "Microsoft Excel - Master Program",
     date: "28 September 2021",
     company: "Udemy",
-    image: "src/assets/certificates/certificate-2.png",
+    image: excelcertificate,
   },
 ];
 
@@ -210,7 +216,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "src/assets/projects/shopinggo.png",
+    image: shopinggo,
     source_code_link: "https://github.com/MRadesh3/shopingGo",
   },
   {
@@ -240,7 +246,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: "src/assets/projects/thoughtflix.png",
+    image: thoughtflix,
     source_code_link: "https://github.com/MRadesh3/thoughtFlix",
   },
   {
@@ -274,7 +280,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "src/assets/projects/adminboard.png",
+    image: adminboard,
     source_code_link: "https://github.com/MRadesh3/react_admindashboard",
   },
 ];

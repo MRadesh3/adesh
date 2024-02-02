@@ -29,11 +29,25 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import webcertificate from "./certificates/certificate.png";
+import collincertificate from "./certificates/certificate-1.png";
+import excelcertificate from "./certificates/certificate-2.png";
+
+import shopinggo from "./projects/shopinggo.png";
+import thoughtflix from "./projects/thoughtflix.png";
+import adminboard from "./projects/adminboard.png";
+
 import techedu from "./company/techedu.png";
 import collin from "./company/collin.png";
 import udemy from "./company/udemy.png";
 
 export {
+  webcertificate,
+  collincertificate,
+  excelcertificate,
+  shopinggo,
+  thoughtflix,
+  adminboard,
   logo,
   backend,
   creator,
