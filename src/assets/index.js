@@ -8,6 +8,8 @@ import link from "./link.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
+import adeshresume from "./adesh-resume.pdf";
+
 import excel from "./tech/excel.png";
 import vscode from "./tech/vscode.png";
 import nextjs from "./tech/nextjs.png";
@@ -42,6 +44,7 @@ import collin from "./company/collin.png";
 import udemy from "./company/udemy.png";
 
 export {
+  adeshresume,
   webcertificate,
   collincertificate,
   excelcertificate,
